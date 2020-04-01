@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: " Hi! its Shreyansh Shrinet"
 ---
-hey,its shreyansh
+
 Use the left arrow to go back!
